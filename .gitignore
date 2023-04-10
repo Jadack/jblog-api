@@ -1,0 +1,14 @@
+# Compiled Output
+/dist
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# Miscellaneous
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
